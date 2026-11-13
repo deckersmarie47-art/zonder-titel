@@ -4,7 +4,7 @@
         . # # # . 
         . . # . . 
         . . . . .
-        `</field><next><block type="device_pause" id="`N=:Z,{2j+$?aZWM[N46"><value name="pause"><shadow type="timePicker" id="PJ7c;yf^:-2]r}j_]t9M"><field name="ms">1000</field></shadow></value><next><block type="device_show_leds" id="D.=II|EG5hBzQCQMGk2O"><field name="LEDS">`
+        `</field><next><block type="device_pause" id="`N=:Z,{2j+$?aZWM[N46"><value name="pause"><shadow type="timePicker" id="PJ7c;yf^:-2]r}j_]t9M"><field name="ms">200</field></shadow></value><next><block type="device_show_leds" id="D.=II|EG5hBzQCQMGk2O"><field name="LEDS">`
         . # . # . 
         # # # # # 
         # # # # # 
